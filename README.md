@@ -143,7 +143,7 @@ Keras
 <tr>
 <td>
 
-[Предсказание температуры стали]
+[Предсказание температуры стали](./yandex_practicum/steel_temperature_prediction/)
 
 </td>
 <td>
