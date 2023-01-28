@@ -164,7 +164,7 @@ Scikit-learn
 <tr>
 <td>
 
-[Прогнозирование оттока клиента Банка]
+[Прогнозирование оттока клиента Банка](.yandex_practicum/customer_churn/)
 
 </td>
 <td>
