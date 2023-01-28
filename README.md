@@ -288,7 +288,7 @@ statsmodels
 <tr>
 <td>
 
-[Обучение модели классификации комментариев]
+[Обучение модели классификации комментариев](./yandex_practicum/project_for_wikishop/)
 
 </td>
 <td>
