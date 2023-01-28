@@ -109,9 +109,10 @@ SciPy,
 
 Определение возраста по фотографии.
   
+</td>
+<td>
   
-  
-Python
+Python,
 Keras
 
 </td>
@@ -126,6 +127,14 @@ Keras
 <td>
 
 На основе данных предложить клиенту тариф.
+  
+</td>
+<td>
+  
+Python,
+Pandas,
+Matplotlib,
+Scikit-learn
 
 </td>
 </tr>
@@ -139,6 +148,13 @@ Keras
 <td>
 
 На основе данных из банка определить клиентов, которые могут уйти.
+  
+</td>
+<td>
+  
+Pandas,
+Matplotlib,
+Scikit-learn
 
 </td>
 </tr>
@@ -152,6 +168,13 @@ Keras
 <td>
 
 На основе данных геологической разведки выбрать район добычи нефти.
+  
+</td>
+<td>
+  
+Pandas,
+Scikit-learn,
+бутстреп
 
 </td>
 </tr>
@@ -165,6 +188,16 @@ Keras
 <td>
 
 Спрогнозировать концентрацию золота при проведении процесса очистки.
+  
+</td>
+<td>
+  
+Python
+Pandas
+Matplotlib
+NumPy
+Scikit-learn
+исследовательский анализ данных
 
 </td>
 </tr>
@@ -178,6 +211,13 @@ Keras
 <td>
 
 Разработка модели анонимизации персональных данных.
+  
+</td>
+<td>
+  
+Python,
+NumPy,
+Scikit-learn
 
 </td>
 </tr>
@@ -191,6 +231,13 @@ Keras
 <td>
 
 Разработка системы рекомендации стоимости автомобиля на основе его описания.
+  
+</td>
+<td>
+  
+Python,
+Pandas,
+lightgbm
 
 </td>
 </tr>
@@ -204,6 +251,14 @@ Keras
 <td>
 
 Разработка системы предсказания объема заказа.
+  
+</td>
+<td>
+  
+Python,
+Pandas,
+Scikit-learn,
+statsmodels
 
 </td>
 </tr>
@@ -218,3 +273,11 @@ Keras
 
 Определение токсичности комментариев.
 
+</td>
+<td>
+  
+Python,
+Pandas,
+BERT,
+nltk,
+tf-idf
