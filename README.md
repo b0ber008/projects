@@ -26,8 +26,8 @@
 </td>
 <td>
   
-Python,
-Pandas
+`Python`
+`Pandas`
 
 </td>
 </tr>
@@ -45,9 +45,9 @@ Pandas
 </td>
 <td>
   
-предобработка данных,
-Python,
-Pandas
+`предобработка данных`
+`Python`
+`Pandas`
   
 </td>
 </tr>
@@ -65,12 +65,12 @@ Pandas
 </td>
 <td>
 
-Python,
-Pandas,
-Matplotlib,
-исследовательский анализ данных,
-визуализация данных,
-предобработка данных
+`Python`
+`Pandas`
+`Matplotlib`
+`исследовательский анализ данных`
+`визуализация данных`
+`предобработка данных`
 
 </td>
 </tr>
@@ -88,11 +88,11 @@ Matplotlib,
 </td>
 <td>
   
-Python,
-Pandas,
-исследовательский анализ данных,
-визуализация данных,
-предобработка данных
+`Python`
+`Pandas`
+`исследовательский анализ данных`
+`визуализация данных`
+`предобработка данных`
   
 </td>
 </tr>
@@ -110,13 +110,13 @@ Pandas,
 </td>
 <td>
 
-Python,
-Pandas,
-Matplotlib,
-NumPy,
-SciPy,
-описательная статистика,
-проверка статистических гипотез
+`Python`
+`Pandas`
+`Matplotlib`
+`NumPy`
+`SciPy`
+`описательная статистика`
+`проверка статистических гипотез`
   
 </td>
 </tr>
@@ -134,8 +134,8 @@ SciPy,
 </td>
 <td>
   
-Python,
-Keras
+`Python`
+`Keras`
 
 </td>
 </tr>
@@ -153,10 +153,10 @@ Keras
 </td>
 <td>
   
-Python,
-Pandas,
-Matplotlib,
-Scikit-learn
+`Python`
+`Pandas`
+`Matplotlib`
+`Scikit-learn`
 
 </td>
 </tr>
@@ -174,9 +174,9 @@ Scikit-learn
 </td>
 <td>
   
-Pandas,
-Matplotlib,
-Scikit-learn
+`Pandas`
+`Matplotlib`
+`Scikit-learn`
 
 </td>
 </tr>
@@ -194,9 +194,9 @@ Scikit-learn
 </td>
 <td>
   
-Pandas,
-Scikit-learn,
-бутстреп
+`Pandas`
+`Scikit-learn`
+`бутстреп`
 
 </td>
 </tr>
@@ -214,12 +214,12 @@ Scikit-learn,
 </td>
 <td>
   
-Python
-Pandas
-Matplotlib
-NumPy
-Scikit-learn
-исследовательский анализ данных
+`Python`
+`Pandas`
+`Matplotlib`
+`NumPy`
+`Scikit-learn`
+`исследовательский анализ данных`
 
 </td>
 </tr>
@@ -237,9 +237,9 @@ Scikit-learn
 </td>
 <td>
   
-Python,
-NumPy,
-Scikit-learn
+`Python`
+`NumPy`
+`Scikit-learn`
 
 </td>
 </tr>
@@ -257,9 +257,9 @@ Scikit-learn
 </td>
 <td>
   
-Python,
-Pandas,
-lightgbm
+`Python`
+`Pandas`
+`lightgbm`
 
 </td>
 </tr>
@@ -277,10 +277,10 @@ lightgbm
 </td>
 <td>
   
-Python,
-Pandas,
-Scikit-learn,
-statsmodels
+`Python`
+`Pandas`
+`Scikit-learn`
+`statsmodels`
 
 </td>
 </tr>
@@ -298,8 +298,8 @@ statsmodels
 </td>
 <td>
   
-Python,
-Pandas,
-BERT,
-nltk,
-tf-idf
+`Python`
+`Pandas`
+`BERT`
+`nltk`
+`tf-idf`
